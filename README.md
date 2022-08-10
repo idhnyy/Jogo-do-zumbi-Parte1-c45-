@@ -1,1 +1,4 @@
-# Jogo-do-zumbi-Parte1-c45-
+# Jogo do zumbi - Parte 1
+
+ Criando o jogo do zumbi 🧟‍♀️
+(C45)
